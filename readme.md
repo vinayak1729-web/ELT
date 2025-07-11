@@ -23,18 +23,6 @@ Analyzes Netflix data in SQL Server 2022 (`NETFLIX` on `DESKTOP-UFR6MA7\SQLEXPRE
 - Dependencies: `pandas`, `sqlalchemy`, `pyodbc`, `matplotlib`, `seaborn==0.13.2`.
   Install: `pip install pandas sqlalchemy pyodbc matplotlib seaborn==0.13.2`.
 
-## Project Structure
-```
-netflix_analysis/
-├── netflix_analysis.ipynb
-├── README.md
-├── directors_movies_tvshows.png
-├── comedy_movies_by_country.png
-├── top_director_per_year.png
-├── avg_duration_by_genre.png
-├── comedy_horror_by_director.png
-├── genres_by_steve_brill.png
-```
 
 ## Setup
 1. Verify SQL Server and `NETFLIX` database.
