@@ -116,8 +116,7 @@ Below are excerpts of the query results (as shown in the notebook):
 4  United Kingdom           60
 ```
 
-## Acknowledgments
-- The structure and approach for this analysis were inspired by the YouTube tutorial ["Netflix Data Analysis using SQL and Python"](https://www.youtube.com/watch?v=ZnQwO6V7pec) by Ankit Bansal (YouTube channel: [Ankit Bansal](https://www.youtube.com/@ankitbansal21), 156K subscribers, [LinkedIn](https://www.linkedin.com/in/ankitbansal21/), [GitHub](https://github.com/ankitbansal21)). However, all code implementation, including SQL queries and visualization effects, was done independently.
+
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
